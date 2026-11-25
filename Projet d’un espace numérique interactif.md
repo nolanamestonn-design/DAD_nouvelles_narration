@@ -16,5 +16,11 @@ Pour qu'un jeu soit jouable est distribué légalement dans les pays suspectible
 
 Un jeu vidéo peut recevoir plusieurs version différentes d'un pays à l'autre.
 
+Nouveau termes appris : Le CAVIARDAGE
+C'est caché une partie d'un mot ou d'une phrase.
+
+
 ![Ma première idée](3.jpeg)
+
+![Ma première idée](4.jpeg)
 
