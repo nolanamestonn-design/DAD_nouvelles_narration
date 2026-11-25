@@ -14,4 +14,6 @@ En fonction de la politique d'un pays et ses accords de confidentialite, un jeu 
 Pour qu'un jeu soit jouable est distribué légalement dans les pays suspectible d'interdire un jeu, l'editeur ou le studio doit suivre des processus d'adaption technique, juridique et culturelle.
 
 Un jeu vidéo peut recevoir plusieurs version différentes d'un pays à l'autre.
-dcfnc
+
+
+dsjndfjnnjdjdjndvdjvf
