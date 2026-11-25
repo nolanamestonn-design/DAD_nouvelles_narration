@@ -21,7 +21,15 @@ C'est caché une partie d'un mot ou d'une phrase.
 
 ![Ma première idée](3.jpeg)
 
-![Ma première idée](4.jpeg)
+Mes premiers essaie pour comprendre ce qu'est le caviardage. 
+
+Une premiere idée me vient, faire un site avec un mini jeu basé sur le caviardage.
+
+ J'ai créer 5 session différentes composées de 3 manches différentes. Chaque joeur devaient compléter les mots en français puis en anglais avec ce qu'ils leurs viens  à l'esprit.
+
 ![Ma première idée](5.png)
 ![Ma première idée](6.png)
+Si je mixe mes deux idées précèdentes 
+![Ma première idée](4.jpeg)
+
 
