@@ -15,5 +15,5 @@ Pour qu'un jeu soit jouable est distribué légalement dans les pays suspectible
 
 Un jeu vidéo peut recevoir plusieurs version différentes d'un pays à l'autre.
 
+![le début](1.png)
 
-dsjndfjnnjdjdjndvdjvf
