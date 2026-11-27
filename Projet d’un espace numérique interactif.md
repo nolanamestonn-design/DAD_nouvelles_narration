@@ -56,6 +56,8 @@ J'ai proposer à claude une interface rappelant plus les jeu-vidéo pour resster
 ![Ma première idée](10.png)
 Le joueur commence alors le mini jeu en appuyant sur "commencer"
 
+![Ma première idée](20.png)
+Le premier design réaliser par claude pour effectuer mon test de scan.
 ![Ma première idée](8.png)
 Mon premier test de scan, le premier mot choisi était "CHAMPAGNE", J'ai installé sur mon terminal node-v26.13.1.pkg et j'ai également installer l'IA "Claude" je lui ai transmis toutes ma conversation que j'avais sur claude.ai sur le web. Je lui fais comprendre mes attentes sur le projet il m'a générer le site et m'as conseillé de mettre "MindAR" pour que tous les appareils numérique puisse etre compatibles avec le scan, Android/Apple. 
 
@@ -68,3 +70,11 @@ Si le visiteur trouve la bonne terminologie, la "BONNE RÉPONSE" s'affiche ainsi
 ![Ma première idée](13.png)
 De meme si le visiteur se trompe, un message "RATÉ" s'affichera ainsi que la meme composition que si la personne avait réussi, Le comparatif, la description et l'erreur du visiteur, ce qu'il à écrit et ce qu'il aurait du mettre pour obtenir le message "BONNE RÉPONSE".
 
+![Ma première idée](23.png)
+Une fois fini le visiteur peut alors rescanné un mot/phrase et ainsi de suite.
+
+![Ma première idée](21.png)
+On imagine que le visiteur scan un nouveau mot, ici le "SANG" et la meme procèdure s'effectue.
+
+
+![Ma première idée](24.png)
