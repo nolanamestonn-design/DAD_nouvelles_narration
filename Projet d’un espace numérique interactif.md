@@ -29,7 +29,15 @@ Une premiere idée me vient, faire un site avec un mini jeu basé sur le caviard
 
 ![Ma première idée](5.png)
 ![Ma première idée](6.png)
-Si je mixe mes deux idées précèdentes 
+Suite à cette idée une autre m'est parvenue, reprendre mes deux premières idées et voir ce que sa peut donner ensemble.
 ![Ma première idée](4.jpeg)
+L'idée est de créer un espace interactif et ludique où l'on peut retrouver, sur les murs, une liste de mots caviardés issus du domaine du jeu vidéo. Ces mots font référence à des modifications, voire à des censures, apportées à la version localisée d'un jeu par rapport à sa version originale. Les spectateurs sont invités à scanner les mots ou phrases caviardés, qui s'affichent ensuite sur un écran d'ordinateur : ils doivent alors en deviner la terminologie. Une fois le mot trouvé, la partie caviardée est dévoilée, accompagnée d'une courte description et de deux images en lien avec le mot.
 
-
+Prenons l'exemple du mot « Champagne ». Dans Super Mario Kart, dans la version originale japonaise, lorsque Bowser monte sur la première marche du podium, il boit une bouteille de champagne d'une traite. Dans la version localisée, la bouteille est toujours présente, mais Bowser se contente de la tenir à la main.
+![Ma première idée](7.png)
+![Ma première idée](9.png)
+![Ma première idée](10.png)
+![Ma première idée](8.png)
+![Ma première idée](11.png)
+![Ma première idée](12.png)
+![Ma première idée](13.png)
