@@ -46,10 +46,25 @@ L'idée est de créer un espace interactif et ludique où l'on peut retrouver, s
 
 
 Prenons l'exemple du mot « Champagne ». Dans Super Mario Kart, dans la version originale japonaise, lorsque Bowser monte sur la première marche du podium, il boit une bouteille de champagne d'une traite. Dans la version localisée, la bouteille est toujours présente, mais Bowser se contente de la tenir à la main.
+
 ![Ma première idée](7.png)
+Premier design du site, les spectateurs une fois le mots caviardés scannée sera redirigé vers se site web.
+
 ![Ma première idée](9.png)
+J'ai proposer à claude une interface rappelant plus les jeu-vidéo pour resster dans la thématique et en gardant à l'esprit l'idée de censure et de Caviardage.
+
 ![Ma première idée](10.png)
+Le joueur commence alors le mini jeu en appuyant sur "commencer"
+
 ![Ma première idée](8.png)
+Mon premier test de scan, le premier mot choisi était "CHAMPAGNE", J'ai installé sur mon terminal node-v26.13.1.pkg et j'ai également installer l'IA "Claude" je lui ai transmis toutes ma conversation que j'avais sur claude.ai sur le web. Je lui fais comprendre mes attentes sur le projet il m'a générer le site et m'as conseillé de mettre "MindAR" pour que tous les appareils numérique puisse etre compatibles avec le scan, Android/Apple. 
+
 ![Ma première idée](11.png)
+Le mot ou la phrase caviardé une fois scanné renverra le visiteur sur une barre de saisie de texte, il devra alors entrer sa réponse en trouvant la bonne terminologie du mot caviarder.
+
 ![Ma première idée](12.png)
+Si le visiteur trouve la bonne terminologie, la "BONNE RÉPONSE" s'affiche ainsi que les images étant en lien avec le mot ou la phrase. Un comparatif entre le jeu dans sa version originale et dans sa version locale apparait suivi d'une descrption expliquant pourquoi le mot/phrases à suscité des procèdures de modifications dans la version localisée 
+
 ![Ma première idée](13.png)
+De meme si le visiteur se trompe, un message "RATÉ" s'affichera ainsi que la meme composition que si la personne avait réussi, Le comparatif, la description et l'erreur du visiteur, ce qu'il à écrit et ce qu'il aurait du mettre pour obtenir le message "BONNE RÉPONSE".
+
